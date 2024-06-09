@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LispInterpreter", "LispInterpreter\LispInterpreter.csproj", "{96D1FB04-266B-427F-9375-B66448144DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LispInterpreter.Tests", "LispInterpreter.Tests\LispInterpreter.Tests.csproj", "{19F480B1-8482-4B35-91B0-051893664690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D1FB04-266B-427F-9375-B66448144DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D1FB04-266B-427F-9375-B66448144DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D1FB04-266B-427F-9375-B66448144DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D1FB04-266B-427F-9375-B66448144DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F480B1-8482-4B35-91B0-051893664690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F480B1-8482-4B35-91B0-051893664690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F480B1-8482-4B35-91B0-051893664690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F480B1-8482-4B35-91B0-051893664690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
