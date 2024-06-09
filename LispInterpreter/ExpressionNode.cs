@@ -19,11 +19,6 @@ public class ExpressionNode
         Value = value;
     }
 
-    public void AddChildren(ExpressionNode node)
-    {
-        Children.Add(node);
-    }
-
     public void SetChildren(List<ExpressionNode> children)
     {
         Children = children;
